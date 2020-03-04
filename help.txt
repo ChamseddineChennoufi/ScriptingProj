@@ -1,0 +1,30 @@
+Page Help:
+
+
+OPTION:
+
+	-lsblk / -ldf / -h / -k / -f / -p / -c / -m / -g / -s / -o
+
+DESCRIPTION:
+
+	
+	-h ou –help: afficher le help
+
+	-lsblk:  lancer la commande lsblk
+
+	-ldf: lancer la commande df
+
+ 	-k: afficher les caractéristiques hardware en utilisant lsblk
+
+ 	-f: afficher les caractéristiques hardware en utilisant df
+
+ 	-p: afficher courbe lsblk en fonction du volume (size)
+
+ 	-c: afficher courbe df en fonction des espaces disponibles (available)
+
+ 	-g: afficher l'interface graphique
+
+ 	-s: sauvegarder dans un fichier ./ScriptSv
+
+ 	-o: trouver le fichier en fonction de la date
+
